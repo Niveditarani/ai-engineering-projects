@@ -1,5 +1,8 @@
 # AI Engineering Projects
 
+A collection of hands-on AI engineering projects built using 
+OpenAI API, vector databases, and Python.
+
 ## 1. Medical Transcription Extraction & ICD-10 Matching
 Automated extraction of structured medical data from clinical 
 transcriptions using OpenAI function calling, mapped to ICD-10 
